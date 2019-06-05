@@ -1,0 +1,981 @@
+ Item 60 esta sendo removido
+ Consumindo: 1
+ Item 61 esta sendo removido
+ Consumindo: 1
+ Item 62 esta sendo removido
+ Consumindo: 2
+ Item 63 esta sendo removido
+ Consumindo: 5
+ Item 64 esta sendo removido
+ Consumindo: 5
+ Item 65 esta sendo removido
+ Consumindo: 7
+ Item 66 esta sendo removido
+ Consumindo: 2
+ Item 67 esta sendo removido
+ Consumindo: 2
+ Item 68 esta sendo removido
+ Consumindo: 0
+ Item 69 esta sendo removido
+ Consumindo: 9
+ Item 70 esta sendo removido
+ Consumindo: 4
+ Item 71 esta sendo removido
+ Consumindo: 7
+ Item 72 esta sendo removido
+ Consumindo: 9
+ Item 73 esta sendo removido
+ Consumindo: 7
+ Item 74 esta sendo removido
+ Consumindo: 6
+ Item 75 esta sendo removido
+ Consumindo: 7
+ Item 76 esta sendo removido
+ Consumindo: 2
+ Item 77 esta sendo removido
+ Consumindo: 3
+ Item 78 esta sendo removido
+ Consumindo: 6
+ Item 79 esta sendo removido
+ Consumindo: 0
+ Item 80 esta sendo removido
+ Consumindo: 2
+ Item 81 esta sendo removido
+ Consumindo: 3
+ Item 82 esta sendo removido
+ Consumindo: 8
+ Item 83 esta sendo removido
+ Consumindo: 0
+ Item 84 esta sendo removido
+ Consumindo: 9
+ Item 85 esta sendo removido
+ Consumindo: 9
+ Item 86 esta sendo removido
+ Consumindo: 1
+ Item 87 esta sendo removido
+ Consumindo: 5
+ Item 88 esta sendo removido
+ Consumindo: 8
+ Item 89 esta sendo removido
+ Consumindo: 9
+ Item 90 esta sendo removido
+ Consumindo: 7
+ Item 91 esta sendo removido
+ Consumindo: 0
+ Item 92 esta sendo removido
+ Consumindo: 2
+ Item 93 esta sendo removido
+ Consumindo: 2
+ Item 94 esta sendo removido
+ Consumindo: 7
+ Item 95 esta sendo removido
+ Consumindo: 7
+ Item 96 esta sendo removido
+ Consumindo: 9
+ Item 97 esta sendo removido
+ Consumindo: 9
+ Item 98 esta sendo removido
+ Consumindo: 2
+ Item 99 esta sendo removido
+ Consumindo: 0
+ Item 100 esta sendo removido
+ Consumindo: 0
+ Item 101 esta sendo removido
+ Consumindo: 6
+ Item 102 esta sendo removido
+ Consumindo: 9
+ Item 103 esta sendo removido
+ Consumindo: 0
+ Item 104 esta sendo removido
+ Consumindo: 6
+ Item 105 esta sendo removido
+ Consumindo: 5
+ Item 106 esta sendo removido
+ Consumindo: 9
+ Item 107 esta sendo removido
+ Consumindo: 8
+ Item 108 esta sendo removido
+ Consumindo: 0
+ Item 109 esta sendo removido
+ Consumindo: 6
+ Item 110 esta sendo removido
+ Consumindo: 8
+ Item 111 esta sendo removido
+ Consumindo: 4
+ Item 112 esta sendo removido
+ Consumindo: 1
+ Item 113 esta sendo removido
+ Consumindo: 8
+ Item 114 esta sendo removido
+ Produzindo: 53
+ Item 3 esta sendo inserido
+ Consumindo: 3
+ Item 8 esta sendo removido
+ Consumindo: 1
+ Item 9 esta sendo removido
+ Consumindo: 0
+ Item 10 esta sendo removido
+ Consumindo: 6
+ Item 11 esta sendo removido
+ Consumindo: 8
+ Item 12 esta sendo removido
+ Consumindo: 8
+ Item 13 esta sendo removido
+ Consumindo: 5
+ Item 14 esta sendo removido
+ Consumindo: 7
+ Item 15 esta sendo removido
+ Consumindo: 8
+ Item 16 esta sendo removido
+ Consumindo: 9
+ Item 17 esta sendo removido
+ Consumindo: 9
+ Item 18 esta sendo removido
+ Consumindo: 6
+ Item 19 esta sendo removido
+ Consumindo: 7
+ Item 20 esta sendo removido
+ Consumindo: 1
+ Item 21 esta sendo removido
+ Consumindo: 7
+ Item 22 esta sendo removido
+ Consumindo: 9
+ Item 23 esta sendo removido
+ Consumindo: 3
+ Item 24 esta sendo removido
+ Consumindo: 8
+ Item 25 esta sendo removido
+ Consumindo: 7
+ Item 26 esta sendo removido
+ Consumindo: 2
+ Item 27 esta sendo removido
+ Consumindo: 8
+ Item 28 esta sendo removido
+ Consumindo: 3
+ Item 29 esta sendo removido
+ Consumindo: 8
+ Item 30 esta sendo removido
+ Consumindo: 7
+ Item 31 esta sendo removido
+ Consumindo: 1
+ Item 32 esta sendo removido
+ Consumindo: 8
+ Item 33 esta sendo removido
+ Consumindo: 5
+ Item 34 esta sendo removido
+ Consumindo: 1
+ Item 35 esta sendo removido
+ Consumindo: 3
+ Item 36 esta sendo removido
+ Consumindo: 7
+ Item 37 esta sendo removido
+ Consumindo: 0
+ Item 38 esta sendo removido
+ Consumindo: 9
+ Item 39 esta sendo removido
+ Consumindo: 0
+ Item 40 esta sendo removido
+ Consumindo: 2
+ Item 41 esta sendo removido
+ Consumindo: 7
+ Item 42 esta sendo removido
+ Consumindo: 0
+ Item 43 esta sendo removido
+ Consumindo: 0
+ Item 44 esta sendo removido
+ Consumindo: 4
+ Item 45 esta sendo removido
+ Consumindo: 7
+ Item 46 esta sendo removido
+ Consumindo: 9
+ Item 47 esta sendo removido
+ Consumindo: 4
+ Item 48 esta sendo removido
+ Consumindo: 7
+ Item 49 esta sendo removido
+ Consumindo: 5
+ Item 50 esta sendo removido
+ Consumindo: 3
+ Item 51 esta sendo removido
+ Consumindo: 8
+ Item 52 esta sendo removido
+ Consumindo: 2
+ Item 53 esta sendo removido
+ Consumindo: 2
+ Item 54 esta sendo removido
+ Consumindo: 1
+ Item 55 esta sendo removido
+ Consumindo: 2
+ Item 56 esta sendo removido
+ Consumindo: 1
+ Item 57 esta sendo removido
+ Consumindo: 3
+ Item 58 esta sendo removido
+ Consumindo: 0
+ Item 59 esta sendo removido
+ Consumindo: 5
+ Item 60 esta sendo removido
+ Consumindo: 3
+ Item 61 esta sendo removido
+ Consumindo: 0
+ Item 62 esta sendo removido
+ Consumindo: 8
+ Item 63 esta sendo removido
+ Consumindo: 4
+ Item 64 esta sendo removido
+ Consumindo: 5
+ Item 65 esta sendo removido
+ Consumindo: 2
+ Item 66 esta sendo removido
+ Consumindo: 9
+ Item 67 esta sendo removido
+ Consumindo: 4
+ Item 68 esta sendo removido
+ Consumindo: 2
+ Item 69 esta sendo removido
+ Consumindo: 0
+ Item 70 esta sendo removido
+ Consumindo: 9
+ Item 71 esta sendo removido
+ Consumindo: 6
+ Item 72 esta sendo removido
+ Consumindo: 6
+ Item 73 esta sendo removido
+ Consumindo: 8
+ Item 74 esta sendo removido
+ Consumindo: 6
+ Item 75 esta sendo removido
+ Consumindo: 6
+ Item 76 esta sendo removido
+ Consumindo: 2
+ Item 77 esta sendo removido
+ Consumindo: 6
+ Item 78 esta sendo removido
+ Consumindo: 5
+ Item 79 esta sendo removido
+ Consumindo: 8
+ Item 80 esta sendo removido
+ Consumindo: 3
+ Item 81 esta sendo removido
+ Consumindo: 2
+ Item 82 esta sendo removido
+ Consumindo: 1
+ Item 83 esta sendo removido
+ Consumindo: 3
+ Item 84 esta sendo removido
+ Produzindo: 36
+ Item 5 esta sendo inserido
+ Consumindo: 4
+ Item 115 esta sendo removido
+ Consumindo: 5
+ Item 85 esta sendo removido
+ Consumindo: 9
+ Item 164 esta sendo removido
+ Produzindo: 54
+ Item 7 esta sendo inserido
+ Produzindo: 55
+ Item 6 esta sendo inserido
+ Produzindo: 56
+ Item 9 esta sendo inserido
+ Produzindo: 150
+ Item 0 esta sendo inserido
+ Produzindo: 151
+ Item 1 esta sendo inserido
+ Produzindo: 152
+ Item 2 esta sendo inserido
+ Produzindo: 153
+ Item 4 esta sendo inserido
+ Produzindo: 154
+ Item 5 esta sendo inserido
+ Produzindo: 155
+ Item 2 esta sendo inserido
+ Produzindo: 156
+ Item 2 esta sendo inserido
+ Produzindo: 157
+ Item 1 esta sendo inserido
+ Produzindo: 158
+ Item 9 esta sendo inserido
+ Produzindo: 159
+ Item 4 esta sendo inserido
+ Produzindo: 160
+ Item 0 esta sendo inserido
+ Produzindo: 161
+ Item 6 esta sendo inserido
+ Produzindo: 162
+ Item 8 esta sendo inserido
+ Produzindo: 163
+ Item 0 esta sendo inserido
+ Produzindo: 164
+ Item 2 esta sendo inserido
+ Produzindo: 165
+ Item 4 esta sendo inserido
+ Produzindo: 166
+ Item 0 esta sendo inserido
+ Produzindo: 167
+ Item 1 esta sendo inserido
+ Produzindo: 168
+ Item 1 esta sendo inserido
+ Produzindo: 169
+ Item 5 esta sendo inserido
+ Produzindo: 170
+ Item 7 esta sendo inserido
+ Produzindo: 171
+ Item 8 esta sendo inserido
+ Produzindo: 172
+ Item 3 esta sendo inserido
+ Produzindo: 173
+ Item 2 esta sendo inserido
+ Produzindo: 174
+ Item 1 esta sendo inserido
+ Produzindo: 175
+ Item 5 esta sendo inserido
+ Produzindo: 176
+ Item 5 esta sendo inserido
+ Produzindo: 177
+ Item 0 esta sendo inserido
+ Produzindo: 178
+ Item 0 esta sendo inserido
+ Produzindo: 179
+ Item 3 esta sendo inserido
+ Produzindo: 180
+ Item 9 esta sendo inserido
+ Produzindo: 181
+ Item 9 esta sendo inserido
+ Produzindo: 182
+ Item 4 esta sendo inserido
+ Produzindo: 183
+ Item 3 esta sendo inserido
+ Produzindo: 184
+ Item 3 esta sendo inserido
+ Produzindo: 185
+ Item 1 esta sendo inserido
+ Produzindo: 186
+ Item 7 esta sendo inserido
+ Produzindo: 187
+ Item 6 esta sendo inserido
+ Produzindo: 188
+ Item 2 esta sendo inserido
+ Produzindo: 189
+ Item 7 esta sendo inserido
+ Produzindo: 190
+ Item 2 esta sendo inserido
+ Produzindo: 191
+ Item 4 esta sendo inserido
+ Produzindo: 192
+ Item 5 esta sendo inserido
+ Produzindo: 193
+ Item 1 esta sendo inserido
+ Produzindo: 194
+ Item 7 esta sendo inserido
+ Produzindo: 195
+ Item 7 esta sendo inserido
+ Produzindo: 196
+ Item 7 esta sendo inserido
+ Produzindo: 197
+ Item 7 esta sendo inserido
+ Produzindo: 198
+ Item 0 esta sendo inserido
+ Produzindo: 199
+ Item 8 esta sendo inserido
+ Produzindo: 57
+ Item 7 esta sendo inserido
+ Produzindo: 58
+ Item 2 esta sendo inserido
+ Consumindo: 9
+ Item 165 esta sendo removido
+ Consumindo: 0
+ Item 166 esta sendo removido
+ Consumindo: 1
+ Item 167 esta sendo removido
+ Consumindo: 2
+ Item 168 esta sendo removido
+ Consumindo: 4
+ Item 169 esta sendo removido
+ Consumindo: 5
+ Item 170 esta sendo removido
+ Consumindo: 2
+ Item 171 esta sendo removido
+ Consumindo: 2
+ Item 172 esta sendo removido
+ Consumindo: 1
+ Item 173 esta sendo removido
+ Consumindo: 9
+ Item 174 esta sendo removido
+ Consumindo: 4
+ Item 175 esta sendo removido
+ Consumindo: 0
+ Item 176 esta sendo removido
+ Consumindo: 6
+ Item 177 esta sendo removido
+ Consumindo: 8
+ Item 178 esta sendo removido
+ Consumindo: 0
+ Item 179 esta sendo removido
+ Consumindo: 2
+ Item 180 esta sendo removido
+ Consumindo: 4
+ Item 181 esta sendo removido
+ Consumindo: 0
+ Item 182 esta sendo removido
+ Consumindo: 1
+ Item 183 esta sendo removido
+ Consumindo: 1
+ Item 184 esta sendo removido
+ Consumindo: 5
+ Item 185 esta sendo removido
+ Consumindo: 7
+ Item 186 esta sendo removido
+ Consumindo: 8
+ Item 187 esta sendo removido
+ Consumindo: 3
+ Item 188 esta sendo removido
+ Consumindo: 2
+ Item 189 esta sendo removido
+ Consumindo: 1
+ Item 190 esta sendo removido
+ Consumindo: 5
+ Item 191 esta sendo removido
+ Consumindo: 5
+ Item 192 esta sendo removido
+ Consumindo: 0
+ Item 193 esta sendo removido
+ Consumindo: 0
+ Item 194 esta sendo removido
+ Consumindo: 3
+ Item 195 esta sendo removido
+ Consumindo: 9
+ Item 196 esta sendo removido
+ Consumindo: 9
+ Item 197 esta sendo removido
+ Consumindo: 4
+ Item 198 esta sendo removido
+ Consumindo: 3
+ Item 199 esta sendo removido
+ Produzindo: 37
+ Item 5 esta sendo inserido
+ Produzindo: 38
+ Item 9 esta sendo inserido
+ Produzindo: 39
+ Item 6 esta sendo inserido
+ Produzindo: 40
+ Item 9 esta sendo inserido
+ Produzindo: 41
+ Item 2 esta sendo inserido
+ Produzindo: 42
+ Item 3 esta sendo inserido
+ Produzindo: 43
+ Item 6 esta sendo inserido
+ Produzindo: 44
+ Item 2 esta sendo inserido
+ Produzindo: 45
+ Item 3 esta sendo inserido
+ Produzindo: 46
+ Item 9 esta sendo inserido
+ Produzindo: 47
+ Item 3 esta sendo inserido
+ Produzindo: 48
+ Item 3 esta sendo inserido
+ Produzindo: 49
+ Item 4 esta sendo inserido
+ Produzindo: 50
+ Item 7 esta sendo inserido
+ Produzindo: 51
+ Item 6 esta sendo inserido
+ Produzindo: 52
+ Item 7 esta sendo inserido
+ Produzindo: 53
+ Item 4 esta sendo inserido
+ Produzindo: 54
+ Item 4 esta sendo inserido
+ Produzindo: 55
+ Item 0 esta sendo inserido
+ Produzindo: 56
+ Item 3 esta sendo inserido
+ Produzindo: 57
+ Item 7 esta sendo inserido
+ Produzindo: 58
+ Item 6 esta sendo inserido
+ Produzindo: 59
+ Item 8 esta sendo inserido
+ Produzindo: 60
+ Item 8 esta sendo inserido
+ Produzindo: 61
+ Item 3 esta sendo inserido
+ Produzindo: 62
+ Item 8 esta sendo inserido
+ Produzindo: 63
+ Item 7 esta sendo inserido
+ Produzindo: 64
+ Item 3 esta sendo inserido
+ Produzindo: 65
+ Item 8 esta sendo inserido
+ Produzindo: 66
+ Item 6 esta sendo inserido
+ Produzindo: 67
+ Item 5 esta sendo inserido
+ Produzindo: 68
+ Item 8 esta sendo inserido
+ Produzindo: 69
+ Item 5 esta sendo inserido
+ Produzindo: 70
+ Item 3 esta sendo inserido
+ Produzindo: 71
+ Item 9 esta sendo inserido
+ Produzindo: 72
+ Item 7 esta sendo inserido
+ Produzindo: 73
+ Item 6 esta sendo inserido
+ Produzindo: 74
+ Item 6 esta sendo inserido
+ Produzindo: 75
+ Item 1 esta sendo inserido
+ Produzindo: 76
+ Item 2 esta sendo inserido
+ Produzindo: 77
+ Item 7 esta sendo inserido
+ Produzindo: 78
+ Item 4 esta sendo inserido
+ Produzindo: 79
+ Item 7 esta sendo inserido
+ Produzindo: 80
+ Item 1 esta sendo inserido
+ Produzindo: 81
+ Item 3 esta sendo inserido
+ Produzindo: 82
+ Item 5 esta sendo inserido
+ Produzindo: 83
+ Item 9 esta sendo inserido
+ Produzindo: 84
+ Item 8 esta sendo inserido
+ Produzindo: 85
+ Item 2 esta sendo inserido
+ Produzindo: 86
+ Item 1 esta sendo inserido
+ Produzindo: 87
+ Item 3 esta sendo inserido
+ Produzindo: 88
+ Item 9 esta sendo inserido
+ Produzindo: 89
+ Item 9 esta sendo inserido
+ Produzindo: 90
+ Item 4 esta sendo inserido
+ Produzindo: 91
+ Item 9 esta sendo inserido
+ Produzindo: 92
+ Item 3 esta sendo inserido
+ Produzindo: 93
+ Item 2 esta sendo inserido
+ Produzindo: 94
+ Item 6 esta sendo inserido
+ Produzindo: 95
+ Item 8 esta sendo inserido
+ Produzindo: 96
+ Item 2 esta sendo inserido
+ Produzindo: 97
+ Item 4 esta sendo inserido
+ Produzindo: 98
+ Item 5 esta sendo inserido
+ Produzindo: 99
+ Item 2 esta sendo inserido
+ Produzindo: 100
+ Item 1 esta sendo inserido
+ Produzindo: 101
+ Item 9 esta sendo inserido
+ Produzindo: 102
+ Item 2 esta sendo inserido
+ Produzindo: 103
+ Item 0 esta sendo inserido
+ Produzindo: 104
+ Item 7 esta sendo inserido
+ Produzindo: 105
+ Item 0 esta sendo inserido
+ Produzindo: 106
+ Item 1 esta sendo inserido
+ Produzindo: 107
+ Item 1 esta sendo inserido
+ Produzindo: 108
+ Item 7 esta sendo inserido
+ Produzindo: 109
+ Item 8 esta sendo inserido
+ Produzindo: 110
+ Item 0 esta sendo inserido
+ Produzindo: 111
+ Item 1 esta sendo inserido
+ Produzindo: 112
+ Item 1 esta sendo inserido
+ Produzindo: 113
+ Item 8 esta sendo inserido
+ Produzindo: 114
+ Item 0 esta sendo inserido
+ Produzindo: 115
+ Item 1 esta sendo inserido
+ Produzindo: 116
+ Item 0 esta sendo inserido
+ Produzindo: 117
+ Item 3 esta sendo inserido
+ Produzindo: 118
+ Item 7 esta sendo inserido
+ Produzindo: 119
+ Item 9 esta sendo inserido
+ Produzindo: 120
+ Item 2 esta sendo inserido
+ Produzindo: 121
+ Item 1 esta sendo inserido
+ Produzindo: 122
+ Item 0 esta sendo inserido
+ Produzindo: 123
+ Item 7 esta sendo inserido
+ Produzindo: 124
+ Item 5 esta sendo inserido
+ Produzindo: 125
+ Item 8 esta sendo inserido
+ Produzindo: 126
+ Item 5 esta sendo inserido
+ Produzindo: 127
+ Item 9 esta sendo inserido
+ Produzindo: 128
+ Item 3 esta sendo inserido
+ Produzindo: 129
+ Item 1 esta sendo inserido
+ Produzindo: 130
+ Item 2 esta sendo inserido
+ Produzindo: 131
+ Item 4 esta sendo inserido
+ Produzindo: 132
+ Item 2 esta sendo inserido
+ Produzindo: 133
+ Item 6 esta sendo inserido
+ Produzindo: 134
+ Item 5 esta sendo inserido
+ Produzindo: 135
+ Item 1 esta sendo inserido
+ Produzindo: 136
+ Item 6 esta sendo inserido
+ Produzindo: 137
+ Item 8 esta sendo inserido
+ Produzindo: 138
+ Item 5 esta sendo inserido
+ Produzindo: 139
+ Item 3 esta sendo inserido
+ Produzindo: 140
+ Item 8 esta sendo inserido
+ Produzindo: 141
+ Item 5 esta sendo inserido
+ Produzindo: 142
+ Item 4 esta sendo inserido
+ Produzindo: 143
+ Item 0 esta sendo inserido
+ Produzindo: 144
+ Item 3 esta sendo inserido
+ Produzindo: 145
+ Item 6 esta sendo inserido
+ Produzindo: 146
+ Item 3 esta sendo inserido
+ Produzindo: 147
+ Item 3 esta sendo inserido
+ Produzindo: 148
+ Item 1 esta sendo inserido
+ Produzindo: 149
+ Item 0 esta sendo inserido
+ Produzindo: 150
+ Item 4 esta sendo inserido
+ Produzindo: 151
+ Item 6 esta sendo inserido
+ Produzindo: 152
+ Item 3 esta sendo inserido
+ Produzindo: 153
+ Item 6 esta sendo inserido
+ Produzindo: 154
+ Item 3 esta sendo inserido
+ Produzindo: 155
+ Item 8 esta sendo inserido
+ Produzindo: 156
+ Item 5 esta sendo inserido
+ Produzindo: 157
+ Item 1 esta sendo inserido
+ Produzindo: 158
+ Item 8 esta sendo inserido
+ Produzindo: 159
+ Item 8 esta sendo inserido
+ Produzindo: 160
+ Item 2 esta sendo inserido
+ Produzindo: 161
+ Item 2 esta sendo inserido
+ Produzindo: 162
+ Item 4 esta sendo inserido
+ Produzindo: 163
+ Item 6 esta sendo inserido
+ Produzindo: 164
+ Item 8 esta sendo inserido
+ Produzindo: 165
+ Item 1 esta sendo inserido
+ Produzindo: 166
+ Item 9 esta sendo inserido
+ Produzindo: 167
+ Item 6 esta sendo inserido
+ Produzindo: 168
+ Item 2 esta sendo inserido
+ Produzindo: 169
+ Item 4 esta sendo inserido
+ Produzindo: 170
+ Item 1 esta sendo inserido
+ Produzindo: 171
+ Item 0 esta sendo inserido
+ Produzindo: 172
+ Item 0 esta sendo inserido
+ Produzindo: 173
+ Item 8 esta sendo inserido
+ Produzindo: 174
+ Item 2 esta sendo inserido
+ Produzindo: 175
+ Item 5 esta sendo inserido
+ Produzindo: 176
+ Item 4 esta sendo inserido
+ Produzindo: 177
+ Item 6 esta sendo inserido
+ Produzindo: 178
+ Item 1 esta sendo inserido
+ Produzindo: 179
+ Item 8 esta sendo inserido
+ Produzindo: 180
+ Item 8 esta sendo inserido
+ Produzindo: 181
+ Item 7 esta sendo inserido
+ Produzindo: 182
+ Item 4 esta sendo inserido
+ Produzindo: 183
+ Item 2 esta sendo inserido
+ Produzindo: 184
+ Item 4 esta sendo inserido
+ Produzindo: 185
+ Item 7 esta sendo inserido
+ Produzindo: 186
+ Item 2 esta sendo inserido
+ Produzindo: 187
+ Item 9 esta sendo inserido
+ Produzindo: 188
+ Item 8 esta sendo inserido
+ Produzindo: 189
+ Item 2 esta sendo inserido
+ Produzindo: 190
+ Item 9 esta sendo inserido
+ Produzindo: 191
+ Item 2 esta sendo inserido
+ Produzindo: 192
+ Item 6 esta sendo inserido
+ Produzindo: 193
+ Item 3 esta sendo inserido
+ Produzindo: 194
+ Item 0 esta sendo inserido
+ Produzindo: 195
+ Item 6 esta sendo inserido
+ Produzindo: 196
+ Item 7 esta sendo inserido
+ Produzindo: 197
+ Item 0 esta sendo inserido
+ Produzindo: 198
+ Item 2 esta sendo inserido
+ Produzindo: 199
+ Item 9 esta sendo inserido
+ Produzindo: 59
+ Item 7 esta sendo inserido
+ Produzindo: 60
+ Item 4 esta sendo inserido
+ Produzindo: 61
+ Item 4 esta sendo inserido
+ Produzindo: 62
+ Item 9 esta sendo inserido
+ Produzindo: 63
+ Item 6 esta sendo inserido
+ Produzindo: 64
+ Item 4 esta sendo inserido
+ Produzindo: 65
+ Item 2 esta sendo inserido
+ Produzindo: 66
+ Item 2 esta sendo inserido
+ Produzindo: 67
+ Item 8 esta sendo inserido
+ Produzindo: 68
+ Item 0 esta sendo inserido
+ Produzindo: 69
+ Item 3 esta sendo inserido
+ Produzindo: 70
+ Item 8 esta sendo inserido
+ Produzindo: 71
+ Item 0 esta sendo inserido
+ Produzindo: 72
+ Item 0 esta sendo inserido
+ Produzindo: 73
+ Item 2 esta sendo inserido
+ Produzindo: 74
+ Item 2 esta sendo inserido
+ Produzindo: 75
+ Item 4 esta sendo inserido
+ Produzindo: 76
+ Item 0 esta sendo inserido
+ Produzindo: 77
+ Item 7 esta sendo inserido
+ Produzindo: 78
+ Item 5 esta sendo inserido
+ Produzindo: 79
+ Item 0 esta sendo inserido
+ Produzindo: 80
+ Item 9 esta sendo inserido
+ Produzindo: 81
+ Item 6 esta sendo inserido
+ Produzindo: 82
+ Item 5 esta sendo inserido
+ Produzindo: 83
+ Item 6 esta sendo inserido
+ Produzindo: 84
+ Item 2 esta sendo inserido
+ Produzindo: 85
+ Item 7 esta sendo inserido
+ Produzindo: 86
+ Item 2 esta sendo inserido
+ Produzindo: 87
+ Item 9 esta sendo inserido
+ Produzindo: 88
+ Item 9 esta sendo inserido
+ Produzindo: 89
+ Item 7 esta sendo inserido
+ Produzindo: 90
+ Item 8 esta sendo inserido
+ Produzindo: 91
+ Item 4 esta sendo inserido
+ Produzindo: 92
+ Item 3 esta sendo inserido
+ Produzindo: 93
+ Item 9 esta sendo inserido
+ Produzindo: 94
+ Item 0 esta sendo inserido
+ Produzindo: 95
+ Item 7 esta sendo inserido
+ Produzindo: 96
+ Item 1 esta sendo inserido
+ Produzindo: 97
+ Item 4 esta sendo inserido
+ Produzindo: 98
+ Item 7 esta sendo inserido
+ Produzindo: 99
+ Item 3 esta sendo inserido
+ Produzindo: 100
+ Item 9 esta sendo inserido
+ Produzindo: 101
+ Item 6 esta sendo inserido
+ Produzindo: 102
+ Item 4 esta sendo inserido
+ Produzindo: 103
+ Item 0 esta sendo inserido
+ Produzindo: 104
+ Item 8 esta sendo inserido
+ Produzindo: 105
+ Item 8 esta sendo inserido
+ Produzindo: 106
+ Item 6 esta sendo inserido
+ Produzindo: 107
+ Item 0 esta sendo inserido
+ Produzindo: 108
+ Item 7 esta sendo inserido
+ Produzindo: 109
+ Item 4 esta sendo inserido
+ Produzindo: 110
+ Item 3 esta sendo inserido
+ Produzindo: 111
+ Item 7 esta sendo inserido
+ Produzindo: 112
+ Item 0 esta sendo inserido
+ Produzindo: 113
+ Item 0 esta sendo inserido
+ Produzindo: 114
+ Item 5 esta sendo inserido
+ Produzindo: 115
+ Item 2 esta sendo inserido
+ Produzindo: 116
+ Item 9 esta sendo inserido
+ Produzindo: 117
+ Item 9 esta sendo inserido
+ Produzindo: 118
+ Item 1 esta sendo inserido
+ Produzindo: 119
+ Item 9 esta sendo inserido
+ Produzindo: 120
+ Item 8 esta sendo inserido
+ Produzindo: 121
+ Item 1 esta sendo inserido
+ Produzindo: 122
+ Item 3 esta sendo inserido
+ Produzindo: 123
+ Item 1 esta sendo inserido
+ Produzindo: 124
+ Item 1 esta sendo inserido
+ Produzindo: 125
+ Item 5 esta sendo inserido
+ Produzindo: 126
+ Item 0 esta sendo inserido
+ Produzindo: 127
+ Item 4 esta sendo inserido
+ Produzindo: 128
+ Item 2 esta sendo inserido
+ Produzindo: 129
+ Item 8 esta sendo inserido
+ Produzindo: 130
+ Item 0 esta sendo inserido
+ Produzindo: 131
+ Item 1 esta sendo inserido
+ Produzindo: 132
+ Item 6 esta sendo inserido
+ Produzindo: 133
+ Item 4 esta sendo inserido
+ Produzindo: 134
+ Item 3 esta sendo inserido
+ Produzindo: 135
+ Item 4 esta sendo inserido
+ Produzindo: 136
+ Item 4 esta sendo inserido
+ Produzindo: 137
+ Item 0 esta sendo inserido
+ Produzindo: 138
+ Item 7 esta sendo inserido
+ Produzindo: 139
+ Item 2 esta sendo inserido
+ Produzindo: 140
+ Item 6 esta sendo inserido
+ Produzindo: 141
+ Item 2 esta sendo inserido
+ Produzindo: 142
+ Item 1 esta sendo inserido
+ Produzindo: 143
+ Item 6 esta sendo inserido
+ Produzindo: 144
+ Item 2 esta sendo inserido
+ Produzindo: 145
+ Item 8 esta sendo inserido
+ Produzindo: 146
+ Item 1 esta sendo inserido
+ Produzindo: 147
+ Item 1 esta sendo inserido
+ Produzindo: 148
+ Item 9 esta sendo inserido
+ Produzindo: 149
+ Item 2 esta sendo inserido
+ Produzindo: 150
+ Item 0 esta sendo inserido
+ Produzindo: 151
+ Item 8 esta sendo inserido
+ Produzindo: 152
+ Item 6 esta sendo inserido
+ Produzindo: 153
+ Item 5 esta sendo inserido
+ Produzindo: 154
+ Item 1 esta sendo inserido
+ Produzindo: 155
+ Item 9 esta sendo inserido
+ Produzindo: 156
+ Item 3 esta sendo inserido
+ Produzindo: 157
+ Item 2 esta sendo inserido
+ Produzindo: 158
+ Item 5 esta sendo inserido
+ Produzindo: 159
+ 
